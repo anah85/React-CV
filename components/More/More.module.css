@@ -1,0 +1,8 @@
+.More {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.Idiomas, .Logros{
+    list-style: none;
+}
